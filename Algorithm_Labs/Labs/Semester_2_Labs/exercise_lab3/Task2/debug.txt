@@ -1,0 +1,14 @@
+Skipping invalid exchange rate: r[1,2] = -5.0
+Log edges:
+(3, 0, -0.6931471805599453)
+(1, 2, -0.6931471805599453)
+(2, 0, -0.0)
+Starting Bellman-Ford from vertex 0
+Starting Bellman-Ford from vertex 1
+Updated distance: dist[2] = -0.6931471805599453
+Updated distance: dist[0] = -0.6931471805599453
+Starting Bellman-Ford from vertex 2
+Updated distance: dist[0] = 0.0
+Starting Bellman-Ford from vertex 3
+Updated distance: dist[0] = -0.6931471805599453
+No negative cycle found
